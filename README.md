@@ -1,4 +1,4 @@
-# ZMK Fork Optimized for Sofle Keyboards
+# ZMK Fork Optimized for Sofle Keyboards 
 
 This is a zmk fork that improves encoder, display and underglow support of zmk.
 
