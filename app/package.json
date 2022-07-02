@@ -1,5 +1,5 @@
 {
-  "name": "zmkfirmware",
+  "name": "zmkfirmware", 
   "version": "1.0.0",
   "description": "ZMK Firmware tooling",
   "private": "true",
