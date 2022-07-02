@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/zmkfirware/zmk/issues"
   },
-  "homepage": "https://zmk.dev/",
+  "homepage": "https://zmk.dev/", 
   "devDependencies": {
     "prettier": "^2.4.0"
   }
